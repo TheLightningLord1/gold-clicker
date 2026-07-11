@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Klicker",
   "resources": {
-    "hash": "sha256-b1XEwUIXFumaZvxXVbvY2wozsDw3VAoKEZu8lX+8220=",
+    "hash": "sha256-xCQRwmxenZ/1gA9lSZpDHXTmUX9IU9jyfieskM/2CVU=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Components.2x1l476efb.wasm": "Microsoft.AspNetCore.Components.wasm",
       "Microsoft.AspNetCore.Components.Web.61k0hxd3pl.wasm": "Microsoft.AspNetCore.Components.Web.wasm",
@@ -36,7 +36,7 @@
       "System.Text.Json.o372vs0eoe.wasm": "System.Text.Json.wasm",
       "System.Text.RegularExpressions.bidgyl3ygr.wasm": "System.Text.RegularExpressions.wasm",
       "System.Private.CoreLib.4cnc40t2w9.wasm": "System.Private.CoreLib.wasm",
-      "Klicker.euzgh0qik3.wasm": "Klicker.wasm",
+      "Klicker.fl2i9n4deq.wasm": "Klicker.wasm",
       "dotnet.native.3lry7ujn8p.js": "dotnet.native.js",
       "dotnet.native.a6rgg1209g.wasm": "dotnet.native.wasm",
       "dotnet.js": "dotnet.js",
@@ -95,7 +95,7 @@
       "System.Text.Encodings.Web.5fvutybsfe.wasm": "sha256-b1D9iqancTKd5GC+Q16oTee9+7nwx2XTbl9FazMU+MY=",
       "System.Text.Json.o372vs0eoe.wasm": "sha256-dH/dv2OL2dd8sr8SCrWSwejPd/tfF9Yv1RjCN8r6lN8=",
       "System.Text.RegularExpressions.bidgyl3ygr.wasm": "sha256-Yy7QzVY0TlgBj00FZwuvPRRWpwvw0gM6xOUeIKrkUHE=",
-      "Klicker.euzgh0qik3.wasm": "sha256-duqHaBnfG4E/0itFzxkgvIe5qcwBP+U00P4uzC6mHPQ="
+      "Klicker.fl2i9n4deq.wasm": "sha256-XT3s04g5JP+MppTES6KIDINKrgcYOiz8BUQGz7N4S+g="
     }
   },
   "cacheBootResources": true,
